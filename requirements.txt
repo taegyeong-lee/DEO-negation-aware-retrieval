@@ -1,0 +1,11 @@
+beir
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+openai
+numpy
+torch
+matplotlib
+pyyaml
+python-dotenv
